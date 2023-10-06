@@ -1,5 +1,5 @@
 PKG_NAME := pypi-annotated_types
-URL = https://files.pythonhosted.org/packages/42/97/41ccb6acac36fdd13592a686a21b311418f786f519e5794b957afbcea938/annotated_types-0.5.0.tar.gz
+URL = https://files.pythonhosted.org/packages/67/fe/8c7b275824c6d2cd17c93ee85d0ee81c090285b6d52f4876ccc47cf9c3c4/annotated_types-0.6.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
