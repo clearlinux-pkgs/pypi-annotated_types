@@ -7,7 +7,7 @@
 #
 Name     : pypi-annotated_types
 Version  : 0.7.0
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/ee/67/531ea369ba64dcff5ec9c3402f9f51bf748cec26dde048a2f973a4eea7f5/annotated_types-0.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ee/67/531ea369ba64dcff5ec9c3402f9f51bf748cec26dde048a2f973a4eea7f5/annotated_types-0.7.0.tar.gz
 Summary  : Reusable constraint types to use with typing.Annotated
